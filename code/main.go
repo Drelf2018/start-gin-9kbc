@@ -4,10 +4,14 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+var counter = 0
+
 func main() {
 	r := gin.Default()
 	r.GET("/ping", func(c *gin.Context) {
+		counter++
 		c.JSON(200, gin.H{
+			"counter": counter,
 			"message": "pong",
 		})
 	})
