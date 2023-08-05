@@ -56,7 +56,7 @@ services:
         memorySize: 1024
         timeout: 30
         instanceConcurrency: 100
-        caPort: 8080
+        caPort: 9000
         customRuntimeConfig:
           command:
             - '/code/main'
