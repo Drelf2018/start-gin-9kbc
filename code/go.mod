@@ -2,7 +2,7 @@ module example.com/m
 
 go 1.20
 
-require github.com/Drelf2018/webhook v0.0.0-beta.0
+require github.com/Drelf2018/webhook v0.0.0-beta.1
 
 require (
 	github.com/Drelf2020/utils v0.2.1 // indirect
