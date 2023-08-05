@@ -17,9 +17,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Clone
-      run: git clone -b gh-pages https://github.com/Drelf2018/nana7mi.link.git
+      run: git clone -b gh-pages https://github.com/Drelf2018/nana7mi.link.git ./code/nana7mi.link
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
-        branch: test # The branch the action should deploy to.
+        branch: master # The branch the action should deploy to.
         folder: ./
