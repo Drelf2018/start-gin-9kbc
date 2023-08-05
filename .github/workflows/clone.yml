@@ -16,6 +16,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Clean
+      run: rm -rf ./code/nana7mi.link
     - name: Clone
       run: git clone -b gh-pages https://github.com/Drelf2018/nana7mi.link.git ./code/nana7mi.link
     - name: Remove
