@@ -18,6 +18,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Clone
       run: git clone -b gh-pages https://github.com/Drelf2018/nana7mi.link.git ./code/nana7mi.link
+    - name: Remove
+      run: rm ./code/nana7mi.link/.git
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
