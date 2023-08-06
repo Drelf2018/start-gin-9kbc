@@ -3,7 +3,5 @@ package main
 import "github.com/Drelf2018/webhook"
 
 func main() {
-	webhook.Run(&webhook.Config{
-		Resource: "/home/app",
-	})
+	webhook.Run(&webhook.Config{Resource: webhook.Resource{Path: "/home/app"}})
 }
