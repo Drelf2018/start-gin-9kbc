@@ -1,7 +1,7 @@
 dario.cat/mergo v1.0.0 h1:AGCNq9Evsj31mOgNPcLyXc+4PNABt905YmuqPYYpBWk=
 dario.cat/mergo v1.0.0/go.mod h1:uNxQE+84aUszobStD9th8a29P2fMDhsBdgRYvZOxGmk=
-github.com/Drelf2018/webhook v0.2.1 h1:dg6Ckns0H/BCmLgvegO2hPb32XAqmSmHYn7bpZkBfL4=
-github.com/Drelf2018/webhook v0.2.1/go.mod h1:1ax2i52XlQR57HugfnXafcvE3Gs6tDiokoKbHqdNVbY=
+github.com/Drelf2018/webhook v0.2.2 h1:h9udDCCa4wAoK02nbiRP542ejBoLP6S5QjzmZoSJDEU=
+github.com/Drelf2018/webhook v0.2.2/go.mod h1:1ax2i52XlQR57HugfnXafcvE3Gs6tDiokoKbHqdNVbY=
 github.com/Drelf2020/utils v0.2.1 h1:LRBqDey9zShod7dlv2f0qfjM3SsXDuJjy55AK3xyk8c=
 github.com/Drelf2020/utils v0.2.1/go.mod h1:kvfDpo8jArhg++N7fyE6ynH1VrhngX0HFfQrMBE1Gbs=
 github.com/Microsoft/go-winio v0.5.2/go.mod h1:WpS1mjBmmwHBEWmogvA2mj8546UReBk4v8QkMxJ6pZY=
