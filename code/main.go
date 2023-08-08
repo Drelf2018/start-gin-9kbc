@@ -3,7 +3,8 @@ package main
 import "github.com/Drelf2018/webhook"
 
 func main() {
-	webhook.Run(&webhook.Config{
-		Resource: webhook.Resource{Path: "/home/app"},
+	webhook.Release(&webhook.Config{
+		Resource:       webhook.Resource{Path: "/home/app"},
+		Administrators: []string{"188888131"},
 	})
 }
