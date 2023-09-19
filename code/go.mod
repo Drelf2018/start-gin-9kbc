@@ -1,16 +1,23 @@
 module example.com/m
 
-go 1.18
+go 1.21.0
 
-require github.com/Drelf2018/webhook v0.2.2
+require github.com/Drelf2018/webhook v0.4.0
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
-	github.com/Drelf2020/utils v0.2.1 // indirect
+	github.com/Drelf2018/TypeGo v0.3.0 // indirect
+	github.com/Drelf2018/asyncio v0.11.0 // indirect
+	github.com/Drelf2018/cmps v1.6.1 // indirect
+	github.com/Drelf2018/event v0.1.0 // indirect
+	github.com/Drelf2018/request v0.4.1 // indirect
+	github.com/Drelf2018/resource v0.3.2 // indirect
+	github.com/Drelf2020/utils v0.6.0 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230717121422-5aa5874ade95 // indirect
 	github.com/PuerkitoBio/goquery v1.8.1 // indirect
 	github.com/acomagu/bufpipe v1.0.4 // indirect
+	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/antonfisher/nested-logrus-formatter v1.3.1 // indirect
 	github.com/bytedance/sonic v1.9.1 // indirect
@@ -18,6 +25,7 @@ require (
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
+	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-contrib/static v0.0.1 // indirect
@@ -48,6 +56,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
+	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/skeema/knownhosts v1.2.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
@@ -58,12 +67,12 @@ require (
 	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	gorm.io/gorm v1.25.2 // indirect
+	gorm.io/gorm v1.25.3 // indirect
 	modernc.org/libc v1.22.5 // indirect
 	modernc.org/mathutil v1.5.0 // indirect
 	modernc.org/memory v1.5.0 // indirect
