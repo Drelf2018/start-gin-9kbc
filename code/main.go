@@ -1,13 +1,10 @@
 package main
 
-import (
-	"github.com/Drelf2018/webhook"
-	"github.com/Drelf2018/webhook/configs"
-)
+import "github.com/Drelf2018/webhook"
 
 func main() {
 	webhook.Release(&webhook.Config{
-		Path:           configs.Path{Root: "/home/app"},
+		Path:           webhook.Path{Root: "/home/app"},
 		Administrators: []string{"188888131"},
 	})
 }
