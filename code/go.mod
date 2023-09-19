@@ -1,6 +1,6 @@
 module example.com/m
 
-go 1.21.0
+go 1.18
 
 require github.com/Drelf2018/webhook v0.4.1
 
