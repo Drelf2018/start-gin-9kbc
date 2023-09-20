@@ -12,8 +12,8 @@ github.com/Drelf2018/request v0.4.2 h1:j3XQNfqZaB3MQis/ZFBHX/gYA480Hgol36RJWJfxk
 github.com/Drelf2018/request v0.4.2/go.mod h1:sTW6hoCKJvPR2ldHv4ptc/O9cAfw4Et7LXr1QN8JrZU=
 github.com/Drelf2018/resource v0.3.5 h1:hhsPtP4EEryliQXszjzlFXRXVesUUZ9zvQ+K30sHucU=
 github.com/Drelf2018/resource v0.3.5/go.mod h1:lYdZ3aO9zZIKi27UFGJOJIC4jKAsIkiUBPLPt3njofs=
-github.com/Drelf2018/webhook v0.5.1 h1:IFCXQoLlmyMZtTf0oYEOFqLfmTGo1O8sZBqbnA+0YVU=
-github.com/Drelf2018/webhook v0.5.1/go.mod h1:XrkjcG/+lyKkBG86j5r4dEgQnFhrfCQSTUkcTich5Yc=
+github.com/Drelf2018/webhook v0.6.0 h1:pDfSee+AvyHnOaLXCkHWOHrUiO+NTlY0IWuxq8hRHYA=
+github.com/Drelf2018/webhook v0.6.0/go.mod h1:jAIZi9b8Mf+ecDRboSXk1rHqHujt+IiWCE00gStmLQ4=
 github.com/Drelf2020/utils v0.6.1 h1:sczoulgXk1iR5vgi9XIoPckhajU3tCb3Ebq8s9qY5vM=
 github.com/Drelf2020/utils v0.6.1/go.mod h1:2D1aCXWdQ1ybsm97a95MQB9oUyrI3s55CV0Ji4xYZ8c=
 github.com/Microsoft/go-winio v0.5.2/go.mod h1:WpS1mjBmmwHBEWmogvA2mj8546UReBk4v8QkMxJ6pZY=
@@ -267,6 +267,8 @@ gopkg.in/warnings.v0 v0.1.2/go.mod h1:jksf8JmL6Qr/oQM2OXTHunEvvTAsrWBLb6OOjuVWRN
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gopkg.in/yaml.v2 v2.2.4/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gopkg.in/yaml.v2 v2.2.8/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
 gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

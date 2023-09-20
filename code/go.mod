@@ -2,7 +2,7 @@ module example.com/m
 
 go 1.18
 
-require github.com/Drelf2018/webhook v0.5.1
+require github.com/Drelf2018/webhook v0.6.0
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
@@ -72,6 +72,7 @@ require (
 	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gorm.io/gorm v1.25.3 // indirect
 	modernc.org/libc v1.22.5 // indirect
