@@ -2,16 +2,13 @@ module example.com/m
 
 go 1.18
 
-require github.com/Drelf2018/webhook v0.7.6
+require github.com/Drelf2018/webhook v0.8.0
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
-	github.com/Drelf2018/TypeGo v0.3.1 // indirect
 	github.com/Drelf2018/asyncio v0.11.1-alpha.1 // indirect
 	github.com/Drelf2018/cmps v1.6.2-alpha.0 // indirect
-	github.com/Drelf2018/event v0.1.1-alpha.0 // indirect
 	github.com/Drelf2018/request v0.4.2 // indirect
-	github.com/Drelf2018/resource v0.3.5 // indirect
 	github.com/Drelf2020/utils v0.7.0 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230717121422-5aa5874ade95 // indirect
@@ -25,7 +22,6 @@ require (
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
-	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/gin-contrib/static v0.0.1 // indirect
@@ -56,7 +52,6 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
-	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/skeema/knownhosts v1.2.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
