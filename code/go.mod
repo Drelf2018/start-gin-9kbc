@@ -2,7 +2,7 @@ module example.com/m
 
 go 1.18
 
-require github.com/Drelf2018/webhook v0.11.1
+require github.com/Drelf2018/webhook v0.11.2
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
@@ -10,7 +10,7 @@ require (
 	github.com/Drelf2018/asyncio v0.11.1-alpha.1 // indirect
 	github.com/Drelf2018/cmps v1.6.2-alpha.0 // indirect
 	github.com/Drelf2018/initial v0.4.1 // indirect
-	github.com/Drelf2018/request v0.5.0 // indirect
+	github.com/Drelf2018/request v0.6.0 // indirect
 	github.com/Drelf2020/utils v0.7.0 // indirect
 	github.com/Microsoft/go-winio v0.6.1 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20230717121422-5aa5874ade95 // indirect
