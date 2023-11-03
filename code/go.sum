@@ -10,8 +10,8 @@ github.com/Drelf2018/initial v0.4.1 h1:57bjHL4iuN+laQH1AnEWp8owYFYwbcdo3QbuVATKK
 github.com/Drelf2018/initial v0.4.1/go.mod h1:7+mwqttoZvwLTnI2MHfF2GymHPrUOxa0riCJ3Al/T1M=
 github.com/Drelf2018/request v0.6.0 h1:GeovlBOzNze6gsCFxAvoGu0PEiIp+mKhYRwVnyr/USM=
 github.com/Drelf2018/request v0.6.0/go.mod h1:+0TUFS1uV8Z47Tpe66Xwa8T2v12XEbYCPkv2ycrlfK8=
-github.com/Drelf2018/webhook v0.11.4 h1:Zw/bZVuAOyATOO614GhY6RTbuQpg0ldpnOPPqnTrBeU=
-github.com/Drelf2018/webhook v0.11.4/go.mod h1:Y+ms3ixD/PHCelkrjDU9aTwaEhjTGPkCTyDRvIaIV3s=
+github.com/Drelf2018/webhook v0.11.5 h1:PEo+nQuZ5ffv4IN8UtiEByVcNyed2RZV9A6KiYBDjNw=
+github.com/Drelf2018/webhook v0.11.5/go.mod h1:Y+ms3ixD/PHCelkrjDU9aTwaEhjTGPkCTyDRvIaIV3s=
 github.com/Drelf2020/utils v0.8.0 h1:wjUI82h0GCr5CF/xi8J8cjrBKMbM51Yryl28XuE5FfA=
 github.com/Drelf2020/utils v0.8.0/go.mod h1:2D1aCXWdQ1ybsm97a95MQB9oUyrI3s55CV0Ji4xYZ8c=
 github.com/Microsoft/go-winio v0.5.2/go.mod h1:WpS1mjBmmwHBEWmogvA2mj8546UReBk4v8QkMxJ6pZY=
