@@ -2,7 +2,7 @@ module example.com/m
 
 go 1.18
 
-require github.com/Drelf2018/webhook v0.11.5
+require github.com/Drelf2018/webhook v0.12.0
 
 require (
 	dario.cat/mergo v1.0.0 // indirect
